@@ -6,6 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This directory stores LinkedIn posts for Byzwize LLC. Each post lives in its own date-named folder (`MMDDYYYY/`), containing the post text and any images.
 
+**Source repository:** https://github.com/chaimochs/linkedin_posts.git (private repo, clone via HTTPS)
+
 ## Folder Structure
 
 ```
